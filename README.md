@@ -19,3 +19,7 @@ Static Web Apps, Web Apps
 <img width="960" alt="frt2 ss4" src="https://user-images.githubusercontent.com/99376752/202271435-63aeb432-0211-427d-908c-17e7cae4ab25.png">
 <img width="960" alt="frt2 ss5" src="https://user-images.githubusercontent.com/99376752/202271451-c8441782-182a-4c7f-ac6f-ab3062db474e.png">
 <img width="960" alt="frt2 ss6" src="https://user-images.githubusercontent.com/99376752/202271461-22b3c27d-8e9b-4331-a127-357e5a2696e3.png">
+
+
+https://user-images.githubusercontent.com/99376752/202272296-90aa0090-2da6-4c99-8e4d-1908663c0ed4.mp4
+
