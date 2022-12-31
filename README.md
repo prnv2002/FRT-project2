@@ -20,7 +20,8 @@ Static Web Apps, Web Apps, Health Bot
 <img width="960" alt="frt2 ss5" src="https://user-images.githubusercontent.com/99376752/202271451-c8441782-182a-4c7f-ac6f-ab3062db474e.png">
 <img width="960" alt="frt2 ss6" src="https://user-images.githubusercontent.com/99376752/202271461-22b3c27d-8e9b-4331-a127-357e5a2696e3.png">
 <img width="960" alt="frt2 ss7" src="https://user-images.githubusercontent.com/99376752/202278733-d6af0535-be7b-443c-a0fd-040de7069ae0.png">
-
+<img width="960" alt="healthbot azure" src="https://user-images.githubusercontent.com/99376752/210132239-c36ff613-1c01-42e1-90fe-f79dce20eeb9.png">
+<img width="960" alt="healthbot azure2" src="https://user-images.githubusercontent.com/99376752/210132241-4693ad24-28fd-48c6-8430-0935b9a310da.png">
 
 
 https://user-images.githubusercontent.com/99376752/202272296-90aa0090-2da6-4c99-8e4d-1908663c0ed4.mp4
