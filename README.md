@@ -10,7 +10,7 @@ This is a responsive website template that includes appointment bookings and new
 It consists of five sections that are like Home, About Us, Doctors, News, Contact, and one can book an appointment by clicking on Make an appointment button. This project uses HTML5, CSS and JavaScript for this web application. Visual Studio code editor is used fro coding. The home section contains general information and some articles. Next is the about us section which includes summary of the website. Doctors section contain information about the available doctors. News section contains the latest news related to health. Contact section includes the necessary information for contacting the Health Center. And at last, Make an Appointment button is used for scheduling an appointment which asks for some information like name, email, date, departrment, phone number and additional message. This is a template of a website later one can clone and add the content according to their need.
 
 ## Primary Azure Technology used
-Static Web Apps, Web Apps
+Static Web Apps, Web Apps, Health Bot
 
 ## Snapshots of Website
 <img width="960" alt="frt2 ss1" src="https://user-images.githubusercontent.com/99376752/202271332-e7428b90-fffa-4f1c-9021-33ab42019765.png">
